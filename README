@@ -1,0 +1,10 @@
+Download and make executable:
+
+cd $HOME/Downloads
+chmod 755 st
+./st
+
+Prints the basic status every 10 seconds:
+
+Battery: [||||||||||||||                                    ] 35% (2 hours remaining)
+Disk   : [|||||||||||||||||||||||                           ] 46%
